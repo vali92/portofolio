@@ -35,3 +35,12 @@ Overall, my experience as a Developer in Test Automation in the banking industry
 
 
 </div>
+
+
+<p align="center"> <b>COURSES</b> </p>
+<div align="center">
+  
+![](https://img.shields.io/badge/Communication%20and%20Leadership%20-%20CONNECT%20EVENTS-AAD40D)
+
+![](https://img.shields.io/badge/Searching%20And%20Reporting%20With%20Splunk%206.x%20(eLearning)-%20Splunk-AAD40D)
+</div>
