@@ -23,8 +23,8 @@ As a Senior Test Automation Engineer, I had the opportunity to play a key role i
 As a QA Engineer, I played a critical role in ensuring the quality and performance of the CUBRID database management system. Here is a summary of my responsibilities and achievements during this role:
 
 - Developed QA tools using Java to enhance testing, debugging, and infrastructure needs. These tools were designed to automate repetitive tasks, improve efficiency, and streamline the QA process. They helped in detecting and resolving issues more effectively. Some examples:
-		- Test automation framework to handle setup, test execution and reporting of a new DB functionality - Scalability
-		- Performance automation tool using Yahoo! Cloud Serving Benchmark (YCSB) 
+   - Test automation framework to handle setup, test execution and reporting of a new DB functionality - Scalability
+   - Performance automation tool using Yahoo! Cloud Serving Benchmark (YCSB) This site was built using [Performance Report](https://github.com/vali92/portofolio/blob/main/Arnia%20Software%20-%20QA%20Automation%20Test%20Lead/performance_report_example.html)
 
 </p>
 
