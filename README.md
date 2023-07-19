@@ -1,8 +1,10 @@
 <div align="center">
 <p style="font-size:70px"><b>ABOUT ME</b></p>
 
-</div> 
+[![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Ask%20Question-orange)](https://stackoverflow.com/users/5849170/neagu-v)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/neagu-valentin-9921a3103/)
 
+</div>
 
   My name is Neagu Valentin, I consider myself a highly skilled QA automation engineer with over 9 years of experience in the field of software testing. Specializing in web, mobile, desktop, and database testing, I have a strong background in designing and implementing automation frameworks and developing automated tests. Throughout my career:
 - I have demonstrated a deep understanding of various testing methodologies, tools, and technologies, allowing me to effectively create and execute comprehensive test plans. I have a proven track record of delivering high-quality software products by identifying and resolving defects early in the development lifecycle.
