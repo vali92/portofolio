@@ -1,8 +1,9 @@
 <div align="center">
 <p style="font-size:70px"><b>ABOUT ME</b></p>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/neagu-valentin-9921a3103/)
 
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-Ask%20Question-orange)](https://stackoverflow.com/users/5849170/neagu-v)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/neagu-valentin-9921a3103/)
 
 </div>
 
@@ -34,3 +35,63 @@ Period  | Company | Position | Project details
 2020 - Present  | Arnia Software (Cubrid & ArniaDb) | QA Automation Test Lead | [Project Link](https://github.com/vali92/portofolio/tree/main/Arnia%20Software%20-%20QA%20Automation%20Test%20Lead)
 
 </div>
+
+
+<div align="center">
+<p style="font-size:70px"><b>SKILLS</b></p>
+
+</div>
+
+<div align="center">
+
+
+<div align="center">
+  
+![](https://img.shields.io/badge/Test%20Plan-AAD40D)
+![](https://img.shields.io/badge/Jira-61DAFB)
+![](https://img.shields.io/badge/Bug%20Reports-D43A0D)
+![](https://img.shields.io/badge/DevTrack-84A77D)
+![](https://img.shields.io/badge/Manual%20Testing-7D8FA7)
+![](https://img.shields.io/badge/Zephyr-DEA0C4)
+![](https://img.shields.io/badge/Console%20Testing-4D226C)
+![](https://img.shields.io/badge/Linux-574763)
+![](https://img.shields.io/badge/SQL-CC5231)
+![](https://img.shields.io/badge/Mobile%20Testing-979797)
+![](https://img.shields.io/badge/Implementing%20guidelines-ABB82D)
+
+![](https://img.shields.io/badge/Selenium-257A4F)
+![](https://img.shields.io/badge/Desktop%20Applications%20Testing-3B9494)
+![](https://img.shields.io/badge/C%20sharp-DB9E41)
+![](https://img.shields.io/badge/Java-257A4F)
+![](https://img.shields.io/badge/TestNG-F9A526)
+![](https://img.shields.io/badge/Selenium-68C554)
+![](https://img.shields.io/badge/Appium-21A1C7)
+![](https://img.shields.io/badge/Selenium-E586CF)
+![](https://img.shields.io/badge/Desktop%20App%20Testing-BDBA65)
+![](https://img.shields.io/badge/Sikuli-75B443)
+![](https://img.shields.io/badge/Cucumber-2F1294)
+![](https://img.shields.io/badge/Java%20Swing-20E55C)
+
+
+![](https://img.shields.io/badge/Web%20Testing-979797)
+![](https://img.shields.io/badge/API%20Testing-728F3B)
+![](https://img.shields.io/badge/GUI%20Testing-D56338)
+![](https://img.shields.io/badge/Spring-38D590)
+![](https://img.shields.io/badge/RestAssured-38A8D5)
+![](https://img.shields.io/badge/Selenium-A338D5)
+![](https://img.shields.io/badge/Database%20Testing-979797)
+![](https://img.shields.io/badge/Shell%20Scripting-D5BD38)
+![](https://img.shields.io/badge/SQL-4BD538)
+![](https://img.shields.io/badge/Code%Reviews-198E6D)
+![](https://img.shields.io/badge/Jenkins-8E7519)
+![](https://img.shields.io/badge/Groovy-19878E)
+![](https://img.shields.io/badge/YCSB-E50505)
+![](https://img.shields.io/badge/TPCC-B205E5)
+![](https://img.shields.io/badge/Test%20Strategy-05E5D7)
+
+
+
+</div>
+
+
+
