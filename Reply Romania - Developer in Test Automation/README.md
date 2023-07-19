@@ -29,9 +29,9 @@ Overall, my experience as a Developer in Test Automation in the banking industry
 ![](https://img.shields.io/badge/Automation%20Testing-7D8FA7)
 ![](https://img.shields.io/badge/Mobile%20Testing-979797)
 ![](https://img.shields.io/badge/Java-257A4F)
-![](https://img.shields.io/badge/TestNG-257A4F)
-![](https://img.shields.io/badge/Selenium-257A4F)
-![](https://img.shields.io/badge/Appium-3B9494)
+![](https://img.shields.io/badge/TestNG-F9A526)
+![](https://img.shields.io/badge/Selenium-68C554)
+![](https://img.shields.io/badge/Appium-21A1C7)
 
 
 </div>
