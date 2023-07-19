@@ -18,6 +18,8 @@ Here are some examples of the tools developed. The product owners asked for a de
 
 </p>
 
+![Model](https://github.com/vali92/portofolio/blob/main/ALTEN%20Romania%20-%20Quality%20Assurance%20Automation%20Engineer/res/1.png)
+
 <p align="center"> <b>ACHIEVED SKILLS</b> </p>
 
 <div align="center">
