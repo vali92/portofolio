@@ -13,12 +13,10 @@ As a Test Architect and Automation Developer for a web-based online banking appl
 
 
 
-Here are some examples of the tools developed.
+Here are some examples of the tools developed. The product owners asked for a desktop application where to execute test cases by themselves, workflow:
 
 
 </p>
-
-
 
 <p align="center"> <b>ACHIEVED SKILLS</b> </p>
 
@@ -31,13 +29,13 @@ Here are some examples of the tools developed.
 ![](https://img.shields.io/badge/Automation%20Testing-7D8FA7)
 ![](https://img.shields.io/badge/Mobile%20Testing-979797)
 ![](https://img.shields.io/badge/Java-257A4F)
-![](https://img.shields.io/badge/TestNG-257A4F)
-![](https://img.shields.io/badge/Selenium-257A4F)
+![](https://img.shields.io/badge/TestNG-86D2E5)
+![](https://img.shields.io/badge/Selenium-E586CF)
 
-![](https://img.shields.io/badge/Web%20Testing-979797)
-![](https://img.shields.io/badge/Desktop%20App%20Testing-979797)
-![](https://img.shields.io/badge/Sikuli-979797)
-![](https://img.shields.io/badge/Cucumber-979797)
-![](https://img.shields.io/badge/Java%20Swing-979797)
+![](https://img.shields.io/badge/Web%20Testing-21A1C7)
+![](https://img.shields.io/badge/Desktop%20App%20Testing-BDBA65)
+![](https://img.shields.io/badge/Sikuli-75B443)
+![](https://img.shields.io/badge/Cucumber-2F1294)
+![](https://img.shields.io/badge/Java%20Swing-20E55C)
 
 </div>
