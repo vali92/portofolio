@@ -1,5 +1,5 @@
 <p align="center">
-2015 - 2016 | <b>EA Games - QA Manual Tester</b> | <i>Video game company</i>
+2014 - 2015 | <b>EA Games - QA Manual Tester</b> | <i>Video game company</i>
   
 
 </p>
