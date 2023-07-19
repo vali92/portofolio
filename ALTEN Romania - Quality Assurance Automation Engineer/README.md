@@ -17,8 +17,21 @@ Here are some examples of the tools developed. The product owners asked for a de
 
 
 </p>
+<div align="center">
+  
+![1](https://github.com/vali92/portofolio/blob/main/ALTEN%20Romania%20-%20Quality%20Assurance%20Automation%20Engineer/res/1.png)
+<br>
+![2](https://github.com/vali92/portofolio/blob/main/ALTEN%20Romania%20-%20Quality%20Assurance%20Automation%20Engineer/res/3.png)
+<br>
+![3](https://github.com/vali92/portofolio/blob/main/ALTEN%20Romania%20-%20Quality%20Assurance%20Automation%20Engineer/res/2.png)
+<br>
+![4](https://github.com/vali92/portofolio/blob/main/ALTEN%20Romania%20-%20Quality%20Assurance%20Automation%20Engineer/res/4.png)
+<br>
+![5](https://github.com/vali92/portofolio/blob/main/ALTEN%20Romania%20-%20Quality%20Assurance%20Automation%20Engineer/res/5.png)
+<br>
+![6](https://github.com/vali92/portofolio/blob/main/ALTEN%20Romania%20-%20Quality%20Assurance%20Automation%20Engineer/res/6.png)
 
-![Model](https://github.com/vali92/portofolio/blob/main/ALTEN%20Romania%20-%20Quality%20Assurance%20Automation%20Engineer/res/1.png)
+</div>
 
 <p align="center"> <b>ACHIEVED SKILLS</b> </p>
 
