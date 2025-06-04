@@ -50,55 +50,60 @@ Period  | Company | Position | Project details
 
 <div align="center">
 
-<!-- General QA & Management -->
-<img src="https://img.shields.io/badge/Test%20Plan-AAD40D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Test%20Strategy-05E5D7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Bug%20Reports-D43A0D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Jira-61DAFB?style=for-the-badge&logo=jira" />
-<img src="https://img.shields.io/badge/Zephyr-DEA0C4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DevTrack-84A77D?style=for-the-badge" />
+<!-- Your original badge block -->
+![](https://img.shields.io/badge/Test%20Plan-AAD40D)
+![](https://img.shields.io/badge/Jira-61DAFB)
+![](https://img.shields.io/badge/Bug%20Reports-D43A0D)
+![](https://img.shields.io/badge/DevTrack-84A77D)
+![](https://img.shields.io/badge/Manual%20Testing-7D8FA7)
+![](https://img.shields.io/badge/Zephyr-DEA0C4)
+![](https://img.shields.io/badge/Console%20Testing-4D226C)
+![](https://img.shields.io/badge/Linux-574763)
+![](https://img.shields.io/badge/SQL-CC5231)
+![](https://img.shields.io/badge/Mobile%20Testing-979797)
+![](https://img.shields.io/badge/Implementing%20guidelines-ABB82D)
 
-<!-- Technical Skills -->
-<img src="https://img.shields.io/badge/Linux-574763?style=for-the-badge&logo=linux" />
-<img src="https://img.shields.io/badge/Shell%20Scripting-D5BD38?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/Groovy-19878E?style=for-the-badge" />
-<img src="https://img.shields.io/badge/SQL-CC5231?style=for-the-badge&logo=sqlite" />
-<img src="https://img.shields.io/badge/Database%20Testing-979797?style=for-the-badge" />
-<img src="https://img.shields.io/badge/API%20Testing-728F3B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Spring-38D590?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RestAssured-38A8D5?style=for-the-badge" />
+![](https://img.shields.io/badge/Selenium-257A4F)
+![](https://img.shields.io/badge/Desktop%20Applications%20Testing-3B9494)
+![](https://img.shields.io/badge/C%20sharp-DB9E41)
+![](https://img.shields.io/badge/Java-257A4F)
+![](https://img.shields.io/badge/TestNG-F9A526)
+![](https://img.shields.io/badge/Selenium-68C554)
+![](https://img.shields.io/badge/Appium-21A1C7)
+![](https://img.shields.io/badge/Selenium-E586CF)
+![](https://img.shields.io/badge/Desktop%20App%20Testing-BDBA65)
+![](https://img.shields.io/badge/Sikuli-75B443)
+![](https://img.shields.io/badge/Cucumber-2F1294)
+![](https://img.shields.io/badge/Java%20Swing-20E55C)
 
-<!-- Automation Tools -->
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium" />
-<img src="https://img.shields.io/badge/Appium-21A1C7?style=for-the-badge&logo=appium" />
-<img src="https://img.shields.io/badge/Sikuli-75B443?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cucumber-2F1294?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Java%20Swing-20E55C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TestNG-F9A526?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge" />
+![](https://img.shields.io/badge/Web%20Testing-979797)
+![](https://img.shields.io/badge/API%20Testing-728F3B)
+![](https://img.shields.io/badge/GUI%20Testing-D56338)
+![](https://img.shields.io/badge/Spring-38D590)
+![](https://img.shields.io/badge/RestAssured-38A8D5)
+![](https://img.shields.io/badge/Selenium-A338D5)
+![](https://img.shields.io/badge/Database%20Testing-979797)
+![](https://img.shields.io/badge/Shell%20Scripting-D5BD38)
+![](https://img.shields.io/badge/SQL-4BD538)
+![](https://img.shields.io/badge/Code%Reviews-198E6D)
+![](https://img.shields.io/badge/Jenkins-8E7519)
+![](https://img.shields.io/badge/Groovy-19878E)
+![](https://img.shields.io/badge/YCSB-E50505)
+![](https://img.shields.io/badge/TPCC-B205E5)
+![](https://img.shields.io/badge/Test%20Strategy-05E5D7)
 
-<!-- CI/CD & DevOps -->
-<img src="https://img.shields.io/badge/Jenkins-8E7519?style=for-the-badge&logo=jenkins" />
-<img src="https://img.shields.io/badge/CI%2FCD-AF6DBD?style=for-the-badge" />
-
-<!-- Testing Domains -->
-<img src="https://img.shields.io/badge/Web%20Testing-979797?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Mobile%20Testing-979797?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Desktop%20App%20Testing-BDBA65?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Console%20Testing-4D226C?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GUI%20Testing-D56338?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Networking%20Testing-1DA1F2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OS%20Validation-2F855A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Firmware%20QA-F56400?style=for-the-badge" />
-
-<!-- Other -->
-<img src="https://img.shields.io/badge/YCSB-E50505?style=for-the-badge" />
-<img src="https://img.shields.io/badge/TPCC-B205E5?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Implementing%20guidelines-ABB82D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Code%20Reviews-198E6D?style=for-the-badge" />
+![](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python)
+![](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square)
+![](https://img.shields.io/badge/CI%2FCD-AF6DBD?style=flat-square)
+![](https://img.shields.io/badge/Firmware%20QA-F56400?style=flat-square)
+![](https://img.shields.io/badge/Networking%20Testing-1DA1F2?style=flat-square)
+![](https://img.shields.io/badge/OS%20Validation-2F855A?style=flat-square)
+![](https://img.shields.io/badge/Cross--functional%20Agile-FF9900?style=flat-square)
+![](https://img.shields.io/badge/Team%20Leadership-0052CC?style=flat-square)
+![](https://img.shields.io/badge/Test%20Architecture-68A063?style=flat-square)
 
 </div>
+
 
 
 
