@@ -12,16 +12,6 @@
 
 <b>Cross-Team Collaboration</b> Facilitated agile ceremonies for SDET/SDE hybrid teams, collaborated with product owners and management, and translated quality metrics into actionable insights and reports.
 
-<div align="center">
-
-<img src="https://via.placeholder.com/600x300.png?text=Amazon+SDET+Dashboard+1" />
-<br>
-<img src="https://via.placeholder.com/600x300.png?text=Eero+Test+Automation+Infra" />
-<br>
-<img src="https://via.placeholder.com/600x300.png?text=Framework+Design+Concept" />
-
-</div>
-
 <p align="center"> <b>ACHIEVED SKILLS</b> </p>
 
 <div align="center">
