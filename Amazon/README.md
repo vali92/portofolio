@@ -12,4 +12,32 @@
 
 <b>Cross-Team Collaboration</b> Facilitated agile ceremonies for SDET/SDE hybrid teams, collaborated with product owners and management, and translated quality metrics into actionable insights and reports.
 
-</p> <div align="center"> <!-- Replace these image links with real screenshots or GitHub resources from Amazon-related work if allowed --> <!-- Placeholder Images --> <img src="https://via.placeholder.com/600x300.png?text=Amazon+SDET+Dashboard+1" /> <br> <img src="https://via.placeholder.com/600x300.png?text=Eero+Test+Automation+Infra" /> <br> <img src="https://via.placeholder.com/600x300.png?text=Framework+Design+Concept" /> </div> <p align="center"> <b>ACHIEVED SKILLS</b> </p> <div align="center">
+<div align="center">
+
+<img src="https://via.placeholder.com/600x300.png?text=Amazon+SDET+Dashboard+1" />
+<br>
+<img src="https://via.placeholder.com/600x300.png?text=Eero+Test+Automation+Infra" />
+<br>
+<img src="https://via.placeholder.com/600x300.png?text=Framework+Design+Concept" />
+
+</div>
+
+<p align="center"> <b>ACHIEVED SKILLS</b> </p>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Team%20Leadership-0052CC?style=for-the-badge&logo=amazon" />
+<img src="https://img.shields.io/badge/Test%20Architecture-68A063?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Networking%20Testing-1DA1F2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OS%20Validation-2F855A?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Amazon%20eero-F56400?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium" />
+<img src="https://img.shields.io/badge/TestNG-E34F26?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Jenkins-CC0000?style=for-the-badge&logo=jenkins" />
+<img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy" />
+<img src="https://img.shields.io/badge/Shell%20Scripting-8E44AD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/API%20Testing-3178C6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cross--functional%20Agile-FF9900?style=for-the-badge" />
+
+</div>
