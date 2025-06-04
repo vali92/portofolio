@@ -23,7 +23,6 @@
 <img src="https://img.shields.io/badge/Embedded%20QA-F56F00?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium" />
 <img src="https://img.shields.io/badge/Jenkins-CC0000?style=for-the-badge&logo=jenkins" />
 <img src="https://img.shields.io/badge/Shell%20Scripting-8E44AD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira" />
