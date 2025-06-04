@@ -32,7 +32,8 @@ Period  | Company | Position | Project details
 2016 - 2018  | Reply Romania  | Developer in Test Automation | [Project Link](https://github.com/vali92/portofolio/tree/main/Reply%20Romania%20-%20Developer%20in%20Test%20Automation)
 2018 - 2019  | ALTEN Romania  | Quality Assurance Automation Engineer | [Project Link](https://github.com/vali92/portofolio/tree/main/ALTEN%20Romania%20-%20Quality%20Assurance%20Automation%20Engineer)
 2019 - 2020  | Arnia Software (Grub & CW360) | Quality Assurance Automation Engineer | [Project Link](https://github.com/vali92/portofolio/tree/main/Arnia%20Software%20-%20QA%20Automation%20Test%20Lead)
-2020 - Present  | Arnia Software (Cubrid & ArniaDb) | QA Automation Test Lead | [Project Link](https://github.com/vali92/portofolio/tree/main/Arnia%20Software%20-%20QA%20Automation%20Test%20Lead)
+2020 - 2023  | Arnia Software (Cubrid & ArniaDb) | QA Automation Test Lead | [Project Link](https://github.com/vali92/portofolio/tree/main/Arnia%20Software%20-%20QA%20Automation%20Test%20Lead)
+2023 - Present  | Amazon (JWO-Store & eero) | QA Automation Test Lead | [Project Link](https://github.com/vali92/portofolio/blob/main/Amazon/README.md)
 
 </div>
 
