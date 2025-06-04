@@ -14,20 +14,21 @@
 
 <p align="center"> <b>ACHIEVED SKILLS</b> </p>
 
+
 <div align="center">
 
 <img src="https://img.shields.io/badge/Team%20Leadership-0052CC?style=for-the-badge&logo=amazon" />
 <img src="https://img.shields.io/badge/Test%20Architecture-68A063?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Networking%20Testing-1DA1F2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/OS%20Validation-2F855A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Amazon%20eero-F56400?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java" />
+<img src="https://img.shields.io/badge/Embedded%20QA-F56F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium" />
-<img src="https://img.shields.io/badge/TestNG-E34F26?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Jenkins-CC0000?style=for-the-badge&logo=jenkins" />
-<img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy" />
 <img src="https://img.shields.io/badge/Shell%20Scripting-8E44AD?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira" />
 <img src="https://img.shields.io/badge/API%20Testing-3178C6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CI%2FCD-AF6DBD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cross--functional%20Agile-FF9900?style=for-the-badge" />
 
 </div>
